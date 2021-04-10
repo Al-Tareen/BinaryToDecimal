@@ -3,7 +3,7 @@
 
 base = 2 #binary is in base 2
 nonBinaryNums = (2,3,4,5,6,7,8,9) #integers not allowed in base 2
-binarySum = 0 #starting sum of binary number
+binarySum = 0 #starting sum of binary decimal representation 
 
 class Error(Exception):
   """Base class for all exceptions."""
